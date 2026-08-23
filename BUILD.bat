@@ -1,0 +1,2 @@
+python crc.py
+pause
