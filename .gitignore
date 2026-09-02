@@ -1,3 +1,5 @@
 *.bak
 /ogcrc
 /Tools
+/patch_and_verify_output
+/en
