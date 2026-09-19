@@ -1,0 +1,8 @@
+@ROOT: Text
+
+# Text
+
+[ga("StreamingAssets/aa/StandaloneWindows64/masterdata_assets_all_1007e97d1154ffcb0e91f2346a050762.bundle"),    txt("en/MasterADV"),                pid('-3291574284806033374')],
+[ga("StreamingAssets/aa/StandaloneWindows64/masterdata_assets_all_1007e97d1154ffcb0e91f2346a050762.bundle"),    txt("en/MasterCharacter"),          pid('-861232449677649201')],
+[ga("StreamingAssets/aa/StandaloneWindows64/masterdata_assets_all_1007e97d1154ffcb0e91f2346a050762.bundle"),    txt("en/MasterChunk"),              pid('4712180173613728409')],
+[ga("StreamingAssets/aa/StandaloneWindows64/masterdata_assets_all_1007e97d1154ffcb0e91f2346a050762.bundle"),    txt("en/MasterCorrelationDiagram"), pid('4081150100993318159')],

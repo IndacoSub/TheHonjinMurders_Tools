@@ -8,6 +8,14 @@ Tools and utilities for the translation and modification of **Kindaichi Mystery 
 >
 > This README was also written with the assistance of generative AI.
 
+## Usage
+
+You'll need to edit `script_base.txt` and `script.py` in order to make the pipeline work:
+
+Among other data, `script_base.txt` contains the relative locations of your dumped (and presumably edited) files, whereas `script.py` may rely on external tools whose full path you'll need to edit or specify, and/or use different paths than those specified in general.
+
+Once you've made those changes, you can run `script_gui.py` in order to easily select which files from `script_base.txt` should be compiled, and then generate the new `script.py`. Finally, just use `BUILD.bat` to compile.
+
 ---
 
 ## UAFGJ
